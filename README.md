@@ -1,6 +1,6 @@
 ![MasterHead](https://strapi.icerockdev.com/uploads/a79de4e66dcd68c78a48909e852ea2c4_2a9734c4e2.png)
 <h1 align="center">Hi, I'm M Yogi Satriawan</h1>
-<h3 align="center">A passionate mobile developer from Indonesia</h3>
+<h3 align="center">Becoming mobile indie developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjatriawan&label=Profile%20views&color=0e75b6&style=flat" alt="sjatriawan" /> </p>
 
@@ -21,8 +21,14 @@
 <a href="https://instagram.com/@satriawaaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@satriawaaan" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
 
 
 
